@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/CircleCI-Public/sample-javascript-cfd
+	url = https://github.com/jsjimenez51/sample-javascript-cfd
 [submodule "backend"]
 	path = backend
-	url = https://github.com/CircleCI-Public/sample-python-cfd
+	url = https://github.com/jsjimenez51/sample-python-cfd
